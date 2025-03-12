@@ -13,7 +13,3 @@ This repository documents the process of evaluating and redesigning an e-learnin
 2. Wireframe and Low-Fidelity Designs
 3. High-Fidelity Design & Interactive Prototype
 4. User Testing Report (findings and recommendations for improvement)
-
-## Tools & Technologies:
-- **Design Thinking**: Empathy, Define, Ideate, Prototype, Test
-- **Prototyping Tools**: Tools used for creating high-fidelity designs and interactive prototypes
